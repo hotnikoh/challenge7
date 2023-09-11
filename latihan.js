@@ -40,3 +40,5 @@ for (let index=0; index<arr2.length; index++){
 }
 
 console.log(arr1);
+
+// soal
